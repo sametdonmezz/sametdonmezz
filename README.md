@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Samet👋
 
-<!--
-**sametdonmezz/sametdonmezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Business Analyst with experience in data governance, data management, data quality, and business analysis across retail, banking, and logistics domains.
+I focus on translating business needs into practical, data-driven solutions and improving data processes, quality, and governance.
 
-Here are some ideas to get you started:
+## 🔍 Areas of Focus
+- Business Analysis
+- Data Governance & Data Management
+- Data Quality & Data Cleansing
+- Data Mapping & Process Improvement
+- Requirements Gathering
+- AS-IS / TO-BE Analysis
+- AI-assisted Data Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Platforms
+- Collibra
+- Ataccama
+- Snowflake
+- Qlik
+- SQL
+- Power BI
+- Tableau
+- Jira & Confluence
+
+## 🚀 Currently Exploring
+- Agentic AI
+- AI-assisted Business Analysis
+- AI-driven Data Quality & Governance
+- Data Process Automation
